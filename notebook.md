@@ -5,6 +5,7 @@
   - [Headings](#headings)
 
   - [Text Formatting](#text-formatting)
+
 ## Markdown Style Guide for Coding Notebooks
 
 Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
